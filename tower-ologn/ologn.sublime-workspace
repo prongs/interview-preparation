@@ -1,0 +1,942 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"t"
+			],
+			[
+				"scan",
+				"scan_int"
+			],
+			[
+				"new",
+				"new_num"
+			],
+			[
+				"e",
+				"end"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"k",
+				"k_best"
+			],
+			[
+				"de",
+				"denom"
+			],
+			[
+				"star",
+				"startind"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"st",
+				"startind"
+			],
+			[
+				"max",
+				"MAX"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "benvacation.txt",
+			"settings":
+			{
+				"buffer_size": 53,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.rb",
+			"settings":
+			{
+				"buffer_size": 898,
+				"line_ending": "Windows",
+				"name": "class GolombSeq"
+			}
+		},
+		{
+			"contents": "Python 2.7.3 (default, Apr 10 2012, 23:31:26) [MSC v.1500 32 bit (Intel)] on win32\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>> b=[2,3]\n>>> for i in xrange(20):\n... 	b.append((b[-1]*1+a[-2]*3)%7)\n... \nTraceback (most recent call last):\n  File \"<stdin>\", line 2, in <module>\nNameError: name 'a' is not defined\n>>> for i in xrange(20):\n... 	b.append((b[-1]*3+b[-2]*1)%7)\n... \n>>> b\n[2, 3, 4, 1, 0, 1, 3, 3, 5, 4, 3, 6, 0, 6, 4, 4, 2, 3, 4, 1, 0, 1]\n>>> ",
+			"settings":
+			{
+				"buffer_size": 486,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"scratch": true
+			}
+		},
+		{
+			"file": "benlucky.cpp",
+			"settings":
+			{
+				"buffer_size": 1044,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dejavu.py",
+			"settings":
+			{
+				"buffer_size": 528,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dejavu.cpp",
+			"settings":
+			{
+				"buffer_size": 152964,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benvacation.cpp",
+			"settings":
+			{
+				"buffer_size": 1542,
+				"line_ending": "Windows",
+				"name": "benvacation.cpp"
+			}
+		},
+		{
+			"file": "temp.cpp",
+			"settings":
+			{
+				"buffer_size": 723,
+				"line_ending": "Windows",
+				"name": "int g[200000], ig[200000];"
+			}
+		},
+		{
+			"contents": "Python 2.7.3 (default, Apr 10 2012, 23:31:26) [MSC v.1500 32 bit (Intel)] on win32\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>> 1008859-998827\n10032\n>>> _/264\n38\n>>> (1008859-998827)/264.0\n38.0\n>>> ",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/C/Users/Rajat/Downloads/graph/Dijkstra.cpp",
+			"settings":
+			{
+				"buffer_size": 3581,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Rajat/Downloads/graph/terry.cpp",
+			"settings":
+			{
+				"buffer_size": 252,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "smartphone.txt",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benlucky.txt",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"build ",
+				"Build: Run"
+			],
+			[
+				"ruby",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"pyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"pytho",
+				"SublimeREPL: Python"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"virtual",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"repl pyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"repl pyth",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Matlab"
+			],
+			[
+				"lua",
+				"SublimeREPL: Lua"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"save as ",
+				"Project: Save As"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"s c++",
+				"Set Syntax: C++"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 175.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/data/train",
+		"/C/Program Files/MATLAB/R2012a/licenses/network.lic",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/data/test",
+		"/C/Users/Rajat/Desktop/temp.c",
+		"/C/Users/Rajat/Dropbox/study/tower-ologn/bigsharkjoe.cpp",
+		"/C/Users/Rajat/Dropbox/study/tower-ologn/smartphone.cpp",
+		"/C/Users/Rajat/Downloads/tower3.cxx",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/C++/forv.sublime-snippet",
+		"/C/Users/Rajat/Dropbox/study/tower-ologn/bigsharkjoe.txt",
+		"/C/Users/Rajat/Downloads/graph/terry.txt",
+		"/C/Users/Rajat/Downloads/TransTraderTerry_testcases/input00.txt",
+		"/C/Users/Rajat/Dropbox/study/tower-ologn/benvacation.txt",
+		"/C/Users/Rajat/Documents/out.txt",
+		"/C/Users/Rajat/Dropbox/study/tower-ologn/dejavu.txt",
+		"/C/Users/Rajat/Dropbox/study/codechef/MAXCOMP.cpp",
+		"/C/Users/Rajat/Dropbox/study/tower-ologn/benlucky.txt",
+		"/C/Users/Rajat/Dropbox/study/codechef/DIAMOND.cpp",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/sublimerepl.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/lang_integration.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/run_existing_command.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/Context.sublime-menu",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Rajat/Dropbox/study/codechef/MAXCOMP.txt",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Rajat/Dropbox/study/codechef/DIAMOND.txt",
+		"/C/Users/Rajat/Dropbox/study/codechef/DRGNBOOL.txt",
+		"/C/Users/Rajat/Dropbox/study/codechef/LUCKY10.txt",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Rajat/Dropbox/study/codechef/Mixtures.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/NEWSCH.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/DRGNBOOL.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/codechef.sublime-workspace",
+		"/C/Users/Rajat/Dropbox/study/codechef/codechef.sublime-project",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Context.sublime-menu",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Sessions/main.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Sessions/Main.sublime-menu",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Settings/Auto Save Session.sublime_session",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Settings/Session.sublime_session",
+		"/C/Program Files/Sublime Text 2/sublime_plugin.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/opencmd.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/codechef/codechef_c++.sublime-build",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-package",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Default (Linux).sublime-keymap",
+		"/C/Users/Rajat/Dropbox/study/codechef/ARRAYTRM.py",
+		"/C/Users/Rajat/Dropbox/study/codechef/LUCKY10.cpp",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/OpenCommandWindowHere/Context.sublime-menu",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/OpenCommandWindowHere/opencmd.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/OpenCommandWindowHere/opencmd.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Prefixr.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/OpenCmd/opencmd.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/OpenCmd/Content.sublime-menu",
+		"/C/Users/Rajat/Desktop/DIAMOND.cpp",
+		"/C/Users/Rajat/Desktop/DIAMOND2.cpp",
+		"/C/Users/Rajat/Desktop/rajat.txt",
+		"/C/Users/Rajat/Desktop/shashank.txt",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/setups/spf13-vim-windows-install.cmd",
+		"/E/setups/vimlog.log",
+		"/C/Users/Rajat/.spf13-vim-3/spf13-vim-windows-install.cmd",
+		"/C/Users/Rajat/.vimrc",
+		"/C/Users/Rajat/_vimrc",
+		"/C/Users/Rajat/curl.cmd",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/C++/C++.sublime-build",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/codechef/c++.sublime-build",
+		"/C/Users/Rajat/Dropbox/study/codechef/makefile",
+		"/C/Program Files/Sublime Text 2/Pristine Packages/C++.sublime-package",
+		"/C/Users/Rajat/Dropbox/study/codechef/NEWSCH.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" *",
+			" +",
+			"printable",
+			"esmtp",
+			"center",
+			"your",
+			"technologies",
+			"buy",
+			"center",
+			"11 ",
+			"11",
+			"\";\n",
+			"200000",
+			"j",
+			"i2",
+			"i1",
+			"calc",
+			"//",
+			"sPath",
+			"path",
+			"sPath",
+			">>",
+			"int",
+			"cin",
+			"scanf",
+			"cout",
+			"scanf",
+			"ULL,",
+			"b",
+			"a",
+			"printf",
+			"scanf",
+			"error",
+			"\\\\n",
+			"5",
+			"4",
+			"3",
+			"1",
+			"&",
+			"sublimerepl:",
+			"python",
+			"ReplViewPreviousCommand",
+			"previous_command",
+			"MIN",
+			"min",
+			"import",
+			"proxy",
+			"on_close",
+			"class command",
+			"user",
+			"//",
+			"current coeffs: for j=5",
+			"current coeffs: for j=5:  ",
+			"current coeffs: for j=\\d+:  ",
+			"double",
+			"True",
+			"/",
+			"<<",
+			"float",
+			"		\n",
+			"int",
+			"coeffs",
+			"current",
+			"20000",
+			"printf",
+			"scanf",
+			"fugitive#statusline",
+			"fugitive",
+			"showDigits",
+			"procBA",
+			"procBA(4, 3);\n		",
+			"procBA",
+			"\n		",
+			"procBA",
+			"4",
+			"procAB",
+			"procBA",
+			"procAB",
+			"0",
+			"procBA",
+			"showDigits",
+			"digB",
+			"<",
+			"++",
+			"digA",
+			"printf",
+			"prinft",
+			"\n			",
+			"printf",
+			"\n	",
+			"printf",
+			"++];\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "benvacation.txt",
+					"settings":
+					{
+						"buffer_size": 53,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.rb",
+					"settings":
+					{
+						"buffer_size": 898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								898,
+								898
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class GolombSeq",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								486,
+								486
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_indent": false,
+							"detect_indentation": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "8bfa68036d5b4e4097bc789a5be8ec8e",
+							"smart_indent": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 38.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "benlucky.cpp",
+					"settings":
+					{
+						"buffer_size": 1044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "dejavu.py",
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 160.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "dejavu.cpp",
+					"settings":
+					{
+						"buffer_size": 152964,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								152776
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 1372277.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "benvacation.cpp",
+					"settings":
+					{
+						"buffer_size": 1542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"auto_name": "benvacation.cpp",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "temp.cpp",
+					"settings":
+					{
+						"buffer_size": 723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"auto_name": "int g[200000], ig[200000];",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_indent": false,
+							"detect_indentation": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "fceb404cd96f4ca29e839c7597928e1c",
+							"smart_indent": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 38.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Rajat/Downloads/graph/Dijkstra.cpp",
+					"settings":
+					{
+						"buffer_size": 3581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2258,
+								2258
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1653.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/Rajat/Downloads/graph/terry.cpp",
+					"settings":
+					{
+						"buffer_size": 252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "smartphone.txt",
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "benlucky.txt",
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 251.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"test",
+				"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/data/test"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true
+}

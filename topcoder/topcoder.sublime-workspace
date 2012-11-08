@@ -1,0 +1,1443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"be",
+				"benifit"
+			],
+			[
+				"max",
+				"maxLength"
+			],
+			[
+				"char",
+				"charLoc"
+			],
+			[
+				"find",
+				"findAll5Powers"
+			],
+			[
+				"stru",
+				"struct	struct"
+			],
+			[
+				"e",
+				"eyeVector"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"dec",
+				"decode_with_initial"
+			],
+			[
+				"sed",
+				"seconds"
+			],
+			[
+				"out",
+				"output_view"
+			],
+			[
+				"han",
+				"handle_thread"
+			],
+			[
+				"handl",
+				"handle_check_output_thread"
+			],
+			[
+				"getSu",
+				"getSubmissionDetails"
+			],
+			[
+				"in",
+				"input_file_name"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"thre",
+				"thread"
+			],
+			[
+				"inpu",
+				"input_text"
+			],
+			[
+				"lan",
+				"language_id"
+			],
+			[
+				"crea",
+				"createSubmission"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"IdeoneLan",
+				"IdeoneLanguageThread"
+			],
+			[
+				"subli",
+				"sublime"
+			],
+			[
+				"ide",
+				"ideone_settings"
+			],
+			[
+				"Ide",
+				"Ideone"
+			],
+			[
+				"Ideon",
+				"IdeoneLanguageThread"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"id",
+				"ideone_settings"
+			],
+			[
+				"sub",
+				"sublime-settings"
+			],
+			[
+				"tg",
+				"tgtNode"
+			],
+			[
+				"norm",
+				"norm_verts"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"mes",
+				"meshData"
+			],
+			[
+				"Lib",
+				"Lib3dsMeshInstanceNode"
+			],
+			[
+				"nod",
+				"noDevisers"
+			],
+			[
+				"modi",
+				"modifier_name"
+			],
+			[
+				"mod",
+				"modifier_name"
+			],
+			[
+				"inden",
+				"indent_characters"
+			],
+			[
+				"Prefi",
+				"PrefixrAPiCall"
+			],
+			[
+				"prefix",
+				"PREFIXR_URL"
+			],
+			[
+				"urllib",
+				"urllib2"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"te",
+				"test_x"
+			],
+			[
+				"lib",
+				"libsvmtest"
+			],
+			[
+				"fre",
+				"freqMap"
+			],
+			[
+				"k",
+				"k_best"
+			],
+			[
+				"de",
+				"denom"
+			],
+			[
+				"star",
+				"startind"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"st",
+				"startind"
+			],
+			[
+				"if",
+				"if	If Condition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SurroundingGameEasy.cpp",
+			"settings":
+			{
+				"buffer_size": 1393,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "FixedPointTheorem.cpp",
+			"settings":
+			{
+				"buffer_size": 1030,
+				"line_ending": "Windows",
+				"name": "FixedPointTheorem"
+			}
+		},
+		{
+			"file": "/C/Users/Rajat/Desktop/PassportApplicationForm_Main_English_V1.0_data.xml",
+			"settings":
+			{
+				"buffer_size": 7342,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+			"settings":
+			{
+				"buffer_size": 23751,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SublimeCodechef/topcoder.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pre",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"prevu",
+				"Markdown Preview: preview in Sublime Text"
+			],
+			[
+				"extra",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"lint",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Rename File"
+			],
+			[
+				"gis",
+				"Gist: Create Public Gist"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"syn c+",
+				"Set Syntax: C++"
+			],
+			[
+				"syn c++",
+				"Set Syntax: C++"
+			],
+			[
+				"inc",
+				"Increment Numbers"
+			],
+			[
+				"incre",
+				"Increment Numbers"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"syn c",
+				"Set Syntax: C"
+			],
+			[
+				"syn java",
+				"Set Syntax: Java"
+			],
+			[
+				"syn jav",
+				"Set Syntax: Java"
+			],
+			[
+				"s c++",
+				"Set Syntax: C++"
+			],
+			[
+				"s c+",
+				"Set Syntax: C++"
+			],
+			[
+				"fold ",
+				"Code Folding: Unfold All"
+			],
+			[
+				"shel",
+				"SublimeREPL: Shell"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"gold",
+				"Golden Ratio"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synta",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"sq",
+				"Square Numbers"
+			],
+			[
+				"sele",
+				"Select Next Number"
+			],
+			[
+				"squa",
+				"Square Numbers"
+			],
+			[
+				"dec",
+				"Decrement Numbers"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"selec",
+				"Select Next Number"
+			],
+			[
+				"select n",
+				"Select Next Number"
+			],
+			[
+				"select",
+				"Select Next Number"
+			],
+			[
+				"select ",
+				"Select Next Number"
+			],
+			[
+				"select ne",
+				"Select Next Number"
+			],
+			[
+				"previe",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"preve",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"mark",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"markd",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"set syntax python",
+				"Set Syntax: Python"
+			],
+			[
+				"set syntax matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"ss py",
+				"Set Syntax: Python"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"virtual",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"repl pyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"repl pyth",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"repl",
+				"SublimeREPL: Matlab"
+			],
+			[
+				"lua",
+				"SublimeREPL: Lua"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"save as ",
+				"Project: Save As"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 328.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rajat/Desktop/PassportApplicationForm_Main_English_V1.0_data.xml",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Rajat/AppData/Local/Google/Chrome/User Data/Default/Extensions/gepikhpbmnfdkclggoddenppdlpenklf/1.0_0/js/jquery-1.6.1.js",
+		"/C/Users/Rajat/AppData/Local/Google/Chrome/User Data/Default/Extensions/gepikhpbmnfdkclggoddenppdlpenklf/1.0_0/js/jquery.crypt.js",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeCodechef/topcoder.sublime-build",
+		"/C/Users/Rajat/AppData/Local/Google/Chrome/User Data/Default/Extensions/gepikhpbmnfdkclggoddenppdlpenklf/1.0_0/popup.html",
+		"/C/Users/Rajat/AppData/Local/Google/Chrome/User Data/Default/Extensions/gepikhpbmnfdkclggoddenppdlpenklf/1.0_0/manifest.json",
+		"/C/Users/Rajat/AppData/Local/Google/Chrome/User Data/Default/Extensions/gepikhpbmnfdkclggoddenppdlpenklf/1.0_0/js/background.js",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeCodechef/topcoder.sublime-snippet",
+		"/C/Users/Rajat/Downloads/ideone_oUvpvP.cpp",
+		"/C/Users/Rajat/Dropbox/study/topcoder/CuttingButString.cpp",
+		"/C/Users/Rajat/Dropbox/study/topcoder/GreatFairyWar.cpp",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/SublimeCodechef.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeCodechef/codechef_c++.sublime-build",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeCodechef/codechef_c++.sublime-snippet",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeCodechef/.gitignore",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/C++/class-..-(class).sublime-snippet",
+		"/C/Users/Rajat/Dropbox/study/topcoder/ChocolateBar.cpp",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/glm-0.9.3.4/glm/gtc/matrix_integer.hpp",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/glm-0.9.3.4/glm/gtc/matrix_access.inl",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/Car.h",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/shaderutils.h",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/glm-0.9.3.4/glm/gtc/matrix_transform.hpp",
+		"/E/setups/glm-0.9.3.4/glm-0.9.3.4/glm/gtc/matrix_transform.inl",
+		"/E/setups/glm-0.9.3.4/glm-0.9.3.4/glm/gtc/matrix_transform.hpp",
+		"/E/setups/glm-0.9.3.4/glm-0.9.3.4/glm/gtc/matrix_inverse.hpp",
+		"/E/setups/glm-0.9.3.4/glm-0.9.3.4/glm/glm.hpp",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/shadow.frag",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/shadow.vert",
+		"/E/setups/glm-0.9.3.4/glm-0.9.3.4/doc/html/a00060.html",
+		"/E/setups/glm-0.9.3.4/glm-0.9.3.4/glm/core/type_mat4x4.hpp",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/lib3ds/src/lib3ds.h",
+		"/C/Users/Rajat/Desktop/t.py",
+		"/C/Users/Rajat/Desktop/t..cpp",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/IdeoneLanguageList.sublime-settings",
+		"/C/users/rajat/appdata/local/temp/sublime-sftp-browse-1351697830/agni/home/harsh/.ssh/authorized_keys",
+		"/C/Users/Rajat/.ssh/id_rsa.pub",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/paniit",
+		"/E/study/sem3/CSP301/Assignments/Ping_pong/proj1/classes.h",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/graphics-assignment-2/trunk/Assn2/Assn2/triangle_screen.obj",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/graphics-assignment-2/trunk/Assn2/Assn2/sphere_screen.obj",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/package_control_channel/repositories.json",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/lib3ds/src/lib3ds_matrix.c",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/lib3ds/src/lib3ds_camera.c",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/agni",
+		"/C/users/rajat/appdata/local/temp/sublime-sftp-browse-1351697858/palasi/home/btech/cs1090209/.ssh/authorized_keys",
+		"/C/Users/Rajat/.ssh/id_rsa",
+		"/C/users/rajat/appdata/local/temp/sublime-sftp-browse-1351697777/agni/home/harsh/.ssh/known_hosts",
+		"/C/users/rajat/appdata/local/temp/sublime-sftp-browse-1351580941/agni/home/harsh/btp-server/website/wperf/models.py",
+		"/C/users/rajat/appdata/local/temp/sublime-sftp-browse-1351581013/agni/home/harsh/btp-server/website/wperf/views.py",
+		"/C/Users/Rajat/Downloads/shadowmapping (1)/src/main.c",
+		"/C/Users/Rajat/Downloads/shadowmapping (1)/src/FragmentShader.c",
+		"/C/Users/Rajat/Downloads/shadowmapping (1)/src/VertexShader.c",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/palasi",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Package Control/Default.sublime-commands",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/glew-1.8.0/include/GL/glew.h",
+		"/C/Users/Rajat/Desktop/test.cpp",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/lib3ds/src/lib3ds_vector.c",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/lib3ds/src/lib3ds_mesh.c",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/Model.h",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/lib3ds/src/lib3ds_file.c",
+		"/E/study/sem3/CSP301/Assignments/Ping_pong.tar/proj1/multipleloader.cpp",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/.git/COMMIT_EDITMSG",
+		"/C/Users/Rajat/Downloads/race.skp",
+		"/C/Users/Rajat/Desktop/a.cpp",
+		"/C/Users/Rajat/Dropbox/study/topcoder/Time.cpp",
+		"/C/Users/Rajat/Dropbox/study/topcoder/BinaryCode.cpp",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeCodechef/ideone.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeIdeone/ideone.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeIdeone/__init__.py",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/.gitignore",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/lib3ds/src/lib3ds_material.c",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/sublimerepl.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeCodechef/SublimeCodechef.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeEvernote/sublime_evernite.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Python/Python.tmLanguage",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Python/Python.tmLanguage.cache",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeNumberManipulation/main.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeCodechef/Main.sublime-menu",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/Main.sublime-menu",
+		"/C/Users/Rajat/AppData/Local/Temp/freearc0c637f4a.tmp/fpconst-0.7.2/fpconst.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeIdeone/SOAPpy/__init__.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeIdeone/SOAPpy/wstools/__init__.py",
+		"/C/Program Files/Sublime Text 2/PackageSetup.py",
+		"/C/Program Files/Sublime Text 2/Pristine Packages/YAML.sublime-package",
+		"/C/Program Files/Sublime Text 2/Pristine Packages/C++.sublime-package",
+		"/E/study/sem3/CSP301/Assignments/Ping_pong/proj1/multipleloader.cpp",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/models/lamborgini/lamborgini.obj",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/models/lamborgini/lamborgini.mtl",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/models/lamborgini/lamborgini.dae",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/models/lamborgini/lamborgini.FBX",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/models/lamborgini/MURCIELAGO640.FBX",
+		"/C/Users/Rajat/Dropbox/algos/projectEuler/prime.py",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/lib3ds/ltmain.sh",
+		"/C/Users/Rajat/Dropbox/study/topcoder/AvoidRoads.cpp",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/lib3ds/lib3ds.sln",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/GraphicsProject/libraries/lib3ds/README",
+		"/C/Users/Rajat/Dropbox/study/careercup/deletewiththis.txt",
+		"/E/xampp/htdocs/missing.php",
+		"/E/xampp/apache/conf/httpd.conf",
+		"/E/xampp/apache/conf/extra/httpd-manual.conf",
+		"/C/Users/Rajat/Dropbox/study/random-interview-problems/mota-doubt.cpp",
+		"/C/Users/Rajat/Dropbox/study/interviewstreet/xorkey.cpp",
+		"/C/Users/Rajat/Dropbox/study/careercup/c-indent.py",
+		"/E/xampp/htdocs/index.php",
+		"/C/Users/Rajat/Dropbox/study/careercup/deletewiththis.cp",
+		"/C/Users/Rajat/Dropbox/study/random-interview-problems/mota-doubt.txt",
+		"/C/Users/Rajat/Dropbox/study/careercup/input.c",
+		"/C/Users/Rajat/Dropbox/study/careercup/output.c",
+		"/C/Users/Rajat/Dropbox/study/codechef/BPHC01.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/BPHC01.txt",
+		"/C/Users/Rajat/Dropbox/study/interviewstreet/xorkey.txt",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeCodechef/README.md",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeNumberManipulation/Default.sublime-commands",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeNumberManipulation/README.md",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/Default.sublime-commands",
+		"/C/Users/Rajat/Documents/Visual Studio 2012/Projects/GraphicsProject/README.md",
+		"/C/Users/Rajat/Downloads/lib3ds-20080909/lib3ds-20080909/examples/Makefile.in",
+		"/C/Users/Rajat/Downloads/lib3ds-20080909/lib3ds-20080909/ltmain.sh"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Rajat\\Documents\\Visual Studio 2012\\Projects\\GraphicsProject\\GraphicsProject",
+			"E:\\setups\\glm-0.9.3.4\\glm-0.9.3.4"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"myhash",
+			"central",
+			"cout",
+			".size()",
+			"cost",
+			"CuttingButString",
+			"cout",
+			"findAns",
+			"bool",
+			"findAll5Powers",
+			"size",
+			"isLeaf",
+			"terminal",
+			"value",
+			"'",
+			"lookat",
+			"mat4",
+			"namespace detail",
+			"mat4",
+			"perspective",
+			"perspectiveFov",
+			"perspective",
+			"java",
+			"Car",
+			"lib3ds_matrix_camera",
+			"codechef",
+			"mat",
+			"( mat|mat )",
+			"glenable",
+			"p_light",
+			"startTranslate",
+			"glUniform1iARB",
+			"GLUNIFORM1IARB",
+			"glUniform1iARB",
+			"shadowmap",
+			"setTextureMatrix",
+			"\n",
+			"data",
+			"install",
+			"startTranslate",
+			"drawObjects",
+			"shadowmap",
+			"setTextureMatrix",
+			"shadowMapUniform",
+			"glUniform1iARB",
+			"GLUNIFORM1IARB",
+			"glUniform1iARB",
+			"shadowShaderId",
+			"shadowMapUniform",
+			"drawObjects",
+			"setTextureMatrix",
+			"setupMatrices",
+			"setTextureMatrix",
+			"drawObjects",
+			"setTextureMatrix",
+			"fboId",
+			"loadShadowShader",
+			"generateShadowFBO",
+			"SHADOW_MAP_RATIO",
+			"generateShadowFBO",
+			"loadShadowShader",
+			"loadShader",
+			"loadShadowShader",
+			"glCreateProgramObjectARB",
+			"loadShader",
+			"glCreateShaderObjectARB",
+			"glAttachObjectARB",
+			"loadShader",
+			"shadowc",
+			"shadow",
+			"shadowcoord",
+			"pfnglbindfr",
+			"pfnglbindfrag",
+			"getOpenGLFunctionPointers",
+			"generateShadowFBO",
+			"loadShadowShader",
+			"shadowmap",
+			"renderScene",
+			"setTextureMatrix",
+			"tex",
+			"texcoor",
+			"texture[",
+			"texture\\[",
+			"texture",
+			"lib3dstexturemap",
+			"lib3dsmaterial",
+			"material",
+			"car",
+			"CAR",
+			"Lib3dsTextureMap",
+			"texture\\[",
+			"texture[",
+			"LoadGLTextures",
+			"rgb",
+			"loadgltexture",
+			"Image",
+			"image->data",
+			"lib3dsmaterial",
+			"lib3ds_vector_sub",
+			"lib3ds_vector_normal",
+			"calculate_",
+			"shader",
+			"by",
+			"name",
+			"file_mesh_for",
+			"message.length()",
+			"wsdl",
+			"soap",
+			"and",
+			"password",
+			"user",
+			"title",
+			"file_name",
+			"print",
+			"print ",
+			"',\"\")",
+			"serf",
+			"python",
+			"IdeoneLanguageThread",
+			"language_id",
+			"// Ideone_Language_Id:1",
+			"bash",
+			"f#",
+			"c#",
+			"javascript",
+			"python",
+			"c++",
+			"python"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"",
+			"Model",
+			"indent*' '+",
+			"std::endl",
+			"libraries",
+			"libraries\\",
+			"!=",
+			"=",
+			"!=",
+			"=",
+			"\\(",
+			"(",
+			";",
+			"&",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SurroundingGameEasy.cpp",
+					"settings":
+					{
+						"buffer_size": 1393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1389,
+								1389
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gist_description": "",
+							"gist_filename": "SurroundingGameEasy.cppdf",
+							"gist_html_url": "https://gist.github.com/4026173",
+							"gist_url": "https://api.github.com/gists/4026173",
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 513.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "FixedPointTheorem.cpp",
+					"settings":
+					{
+						"buffer_size": 1030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1003,
+								1003
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "FixedPointTheorem",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 567.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Rajat/Desktop/PassportApplicationForm_Main_English_V1.0_data.xml",
+					"settings":
+					{
+						"buffer_size": 7342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+					"settings":
+					{
+						"buffer_size": 23751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1195,
+								1195
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1653.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 131.0
+	},
+	"output.git":
+	{
+		"height": 248.0
+	},
+	"output.sftp":
+	{
+		"height": 142.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 221.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"back",
+				"/C/Users/Rajat/AppData/Local/Google/Chrome/User Data/Default/Extensions/gepikhpbmnfdkclggoddenppdlpenklf/1.0_0/js/background.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true
+}

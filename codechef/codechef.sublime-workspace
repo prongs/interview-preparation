@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"os",
+				"ostream"
+			],
+			[
+				"cd",
+				"cd_struct"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"secon",
+				"secondCompare"
+			],
+			[
+				"inden",
+				"indent_characters"
+			],
+			[
+				"Prefi",
+				"PrefixrAPiCall"
+			],
+			[
+				"prefix",
+				"PREFIXR_URL"
+			],
+			[
+				"urllib",
+				"urllib2"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"te",
+				"test_x"
+			],
+			[
+				"lib",
+				"libsvmtest"
+			],
+			[
+				"fre",
+				"freqMap"
+			],
+			[
+				"k",
+				"k_best"
+			],
+			[
+				"de",
+				"denom"
+			],
+			[
+				"star",
+				"startind"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"st",
+				"startind"
+			],
+			[
+				"max",
+				"MAX"
+			],
+			[
+				"if",
+				"if	If Condition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "import os,sys\n\nsites = ",
+			"file": "/C/users/rajat/appdata/local/temp/sublime-sftp-browse-1352046461/agni/home/harsh/btp-server/serverrender.py",
+			"file_size": 0,
+			"file_write_time": 129965200928243567,
+			"settings":
+			{
+				"buffer_size": 23,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"syn c++",
+				"Set Syntax: C++"
+			],
+			[
+				"set syntax python",
+				"Set Syntax: Python"
+			],
+			[
+				"set syntax matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"ss py",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"virtual",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"repl pyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"repl pyth",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Matlab"
+			],
+			[
+				"lua",
+				"SublimeREPL: Lua"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"save as ",
+				"Project: Save As"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"s c++",
+				"Set Syntax: C++"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 264.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rajat/Desktop/ping_result_31",
+		"/C/Users/Rajat/Dropbox/study/codechef/icpc_c.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/icpc_a.cpp",
+		"/C/Users/Rajat/Downloads/55.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/icpc_d.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/icpc_e2.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/icpc_e.txt",
+		"/C/Users/Rajat/Dropbox/study/codechef/icpc_e.cpp",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeCodechef/codechef_c++.sublime-snippet",
+		"/C/Users/Rajat/Downloads/55 (1).cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/icpc_e3.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/icpc_d.txt",
+		"/C/Users/Rajat/Dropbox/study/codechef/DRGNBOOL.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/icpc_c.txt",
+		"/C/Users/Rajat/Dropbox/study/codechef/icpc_a.txt",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Prefixr.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.py",
+		"/E/eula.3082.txt",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/q1d_output",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/q1d.py",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/Readme",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/libsvm/python/README",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/main.m",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/opencmd.py",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/perceptron.csv",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/data/test",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/data/libsvmtest",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/data/train",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/data/test2",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/perceptron2.csv",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/naivebayes.csv",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/libsvm/README",
+		"/C/Users/Rajat/proxy.py",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/perceptron.m",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/main",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/libsvm-3.12/python/svmutil.py",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/libsvm-3.12/heart_scale",
+		"/C/Users/Rajat/Dropbox/study/sem7/CSL865/ass2/libsvm-3.12/python/README",
+		"/C/Users/Rajat/Dropbox/study/codechef/two_magician.py",
+		"/C/Users/Rajat/Dropbox/study/codechef/TEAMSIZE.txt",
+		"/C/Users/Rajat/Dropbox/study/codechef/LUCKY10.txt",
+		"/C/Users/Rajat/Dropbox/study/codechef/DIAMOND.txt",
+		"/C/Users/Rajat/Dropbox/study/codechef/DIAMOND.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/LUCKY10.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/TEAMSIZE.cpp",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/sublimerepl.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/lang_integration.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/run_existing_command.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/Context.sublime-menu",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Rajat/Dropbox/study/codechef/MAXCOMP.txt",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Rajat/Dropbox/study/codechef/DRGNBOOL.txt",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Rajat/Dropbox/study/codechef/Mixtures.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/NEWSCH.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/MAXCOMP.cpp",
+		"/C/Users/Rajat/Dropbox/study/codechef/codechef.sublime-workspace",
+		"/C/Users/Rajat/Dropbox/study/codechef/codechef.sublime-project",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Context.sublime-menu",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Sessions/main.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Sessions/Main.sublime-menu",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Settings/Auto Save Session.sublime_session",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Settings/Session.sublime_session",
+		"/C/Program Files/Sublime Text 2/sublime_plugin.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/codechef/codechef_c++.sublime-build",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-package",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/Default (Linux).sublime-keymap",
+		"/C/Users/Rajat/Dropbox/study/codechef/ARRAYTRM.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/OpenCommandWindowHere/Context.sublime-menu",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/OpenCommandWindowHere/opencmd.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/OpenCommandWindowHere/opencmd.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/OpenCmd/opencmd.py",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/OpenCmd/Content.sublime-menu",
+		"/C/Users/Rajat/Desktop/DIAMOND.cpp",
+		"/C/Users/Rajat/Desktop/DIAMOND2.cpp",
+		"/C/Users/Rajat/Desktop/rajat.txt",
+		"/C/Users/Rajat/Desktop/shashank.txt",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/setups/spf13-vim-windows-install.cmd",
+		"/E/setups/vimlog.log",
+		"/C/Users/Rajat/.spf13-vim-3/spf13-vim-windows-install.cmd",
+		"/C/Users/Rajat/.vimrc",
+		"/C/Users/Rajat/_vimrc",
+		"/C/Users/Rajat/curl.cmd",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/C++/C++.sublime-build",
+		"/C/Users/Rajat/AppData/Roaming/Sublime Text 2/Packages/User/codechef/c++.sublime-build",
+		"/C/Users/Rajat/Dropbox/study/codechef/makefile",
+		"/C/Program Files/Sublime Text 2/Pristine Packages/C++.sublime-package",
+		"/C/Users/Rajat/Dropbox/study/codechef/NEWSCH.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"include",
+			"q",
+			"cds",
+			"d",
+			"s",
+			"v",
+			"b",
+			"scanf",
+			"cout",
+			"cin",
+			"include",
+			"sort",
+			"http_proxy",
+			"0800",
+			"parameter",
+			"sublimerepl:",
+			"python",
+			"ReplViewPreviousCommand",
+			"previous_command",
+			"MIN",
+			"min",
+			"import",
+			"proxy",
+			"on_close",
+			"class command",
+			"user",
+			"//",
+			"current coeffs: for j=5",
+			"current coeffs: for j=5:  ",
+			"current coeffs: for j=\\d+:  ",
+			"double",
+			"True",
+			"/",
+			"<<",
+			"float",
+			"		\n",
+			"int",
+			"coeffs",
+			"current",
+			"20000",
+			"printf",
+			"scanf",
+			"fugitive#statusline",
+			"fugitive",
+			"showDigits",
+			"procBA",
+			"procBA(4, 3);\n		",
+			"procBA",
+			"\n		",
+			"procBA",
+			"4",
+			"procAB",
+			"procBA",
+			"procAB",
+			"0",
+			"procBA",
+			"showDigits",
+			"digB",
+			"<",
+			"++",
+			"digA",
+			"printf",
+			"prinft",
+			"\n			",
+			"printf",
+			"\n	",
+			"printf",
+			"++];\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/users/rajat/appdata/local/temp/sublime-sftp-browse-1352046461/agni/home/harsh/btp-server/serverrender.py",
+					"settings":
+					{
+						"buffer_size": 23,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_remote": true,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tmp_dir": "c:\\users\\rajat\\appdata\\local\\temp\\sublime-sftp-browse-1352046461\\agni\\"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 192.0
+	},
+	"output.sftp":
+	{
+		"height": 306.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true
+}
