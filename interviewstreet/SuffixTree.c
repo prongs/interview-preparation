@@ -34,4 +34,25 @@
 #define checkbit(n,b)                ( (n >> b) & 1)
 #define DREP(a)                      sort(all(a)); a.erase(unique(all(a)),a.end())
 #define INDEX(arr,ind)               (lower_bound(all(arr),ind)-arr.begin())
+#include<stdio.h>
+
+#define MAX_NUM_STRINGS 100
+#define MAX_LEN_STRING 256 
+typedef struct Node
+{
+    struct Node* parent;
+    struct Node* children[26];
+}Node;
+Node root;
+int T, n, num_strings;
+int i,j,k,l;
+char strings[MAX_LEN_STRING][MAX_NUM_STRINGS];
+int main()
+{
+    s(num_strings);
+    for(i=0;i<num_strings; i++)
+    {
+       ss() 
+    }
+}
 

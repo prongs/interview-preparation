@@ -10,7 +10,10 @@
 *.lai
 *.la
 *.a
-
+*.pyc
 #Executables
 *.out
 *.exe
+
+#Backup files from vim
+*.*~
